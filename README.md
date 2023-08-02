@@ -11,3 +11,5 @@
 - • 256x256px images with 31 semantic classes were splitted into Training-Test-Validation as 2975-300-200.
 - • Resize all the images, normalize the input image and create black mask of the same size as target/
 - • Map the color to class for each pixel of the target image by matching the given class id.
+![image](https://github.com/sohamthirty/Semantic-Segmentation-using-UNET-and-Transformers/assets/56295513/dff92834-88f0-433e-97ce-a35ebd406b54)
+
