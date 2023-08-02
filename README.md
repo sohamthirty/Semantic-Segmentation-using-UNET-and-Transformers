@@ -13,3 +13,15 @@
 - • Map the color to class for each pixel of the target image by matching the given class id.
 ![image](https://github.com/sohamthirty/Semantic-Segmentation-using-UNET-and-Transformers/assets/56295513/dff92834-88f0-433e-97ce-a35ebd406b54)
 
+## Baseline
+**Fully Convolutional Network (FCN)**
+- • FCN model is easy to implement and flexible to size of input image size.
+- • Fully connected layers in a traditional CNN are replaced with convolutional layers.
+### Architecture
+- • 1. Convolution layers are used in the encoding for downsampling.
+- • 2. Transposed Convolution layers for upsampling in the Decoder.
+- • 3. Final Layer for classification.
+- ![image](https://github.com/sohamthirty/Semantic-Segmentation-using-UNET-and-Transformers/assets/56295513/e7d7289b-0e27-4a41-9b87-01def8c47018)
+### Problem
+Loss of spatial details during downsample which can lead to inaccurate model performance.
+
