@@ -14,7 +14,7 @@
 ![image](https://github.com/sohamthirty/Semantic-Segmentation-using-UNET-and-Transformers/assets/56295513/dff92834-88f0-433e-97ce-a35ebd406b54)
 
 ## Baseline
-**Fully Convolutional Network (FCN)**
+**Fully Convolutional Network(FCN)**
 - • FCN model is easy to implement and flexible to size of input image size.
 - • Fully connected layers in a traditional CNN are replaced with convolutional layers.
 ### Architecture
